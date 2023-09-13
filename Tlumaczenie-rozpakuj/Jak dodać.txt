@@ -1,0 +1,2 @@
+Tłumaczenie umieść w folderze:
+wp-content/themes/metro/languages/
