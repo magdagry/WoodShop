@@ -1,0 +1,6 @@
+2023-09-13T18:34:39+00:00 CRITICAL require(): Failed opening required '/Users/magdalenagrygier/Documents/Projekty/WoodShop/wp-content/themes/metro-child/wp-blog-header.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Users/magdalenagrygier/Documents/Projekty/WoodShop/wp-content/themes/metro-child/footer.php on line 17
+
+2023-09-13T18:35:24+00:00 CRITICAL require(): Failed opening required '/Users/magdalenagrygier/Documents/Projekty/WoodShop/wp-content/themes/metro-child/wp-blog-header.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Users/magdalenagrygier/Documents/Projekty/WoodShop/wp-content/themes/metro-child/footer.php on line 17
+
+2023-09-13T18:35:35+00:00 CRITICAL require(): Failed opening required '/Users/magdalenagrygier/Documents/Projekty/WoodShop/wp-content/themes/metro-child/wp-blog-header.php' (include_path='.:/Applications/MAMP/bin/php/php7.4.33/lib/php') in /Users/magdalenagrygier/Documents/Projekty/WoodShop/wp-content/themes/metro-child/footer.php on line 17
+
